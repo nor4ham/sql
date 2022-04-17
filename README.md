@@ -7,7 +7,7 @@ CREATE TABLE countries (
     continent_name varchar(20)  NOT NULL,
     PRIMARY KEY (code)
 );
-
+<br/>
 use store;
 CREATE TABLE users (
     id int NOT NULL,
